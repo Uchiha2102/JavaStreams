@@ -25,8 +25,6 @@ public static void main(String[] args) {
             .mapToInt(i -> i)
             .sum();
 
-
     System.out.println("Sum " + sum);
-    
 }
 }
